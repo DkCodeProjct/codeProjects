@@ -1,4 +1,11 @@
 import random
+"""
+------------
+this code is a testCosde which mean i wrote it FIRST VERY SIMPLY AND START TO ADD MORE
+FEATURES and make some complecates andBeutifulCode
+------------
+"""
+
 
 def displayWord(word,guessedChar):
     display = ''
